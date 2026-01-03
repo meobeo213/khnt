@@ -1,3 +1,6 @@
+https://drive.google.com/drive/folders/1PNRapqY_hdIMI2pKoXN_AixoJdYhXvax?usp=sharing
+https://drive.google.com/drive/folders/1NVhko2CmiPW6Jnu-_xfBgGTnMRDjtQE0?usp=drive_link
+link tải model và môi trưởng
 ## Hướng dẫn sử dụng
 ### Cấu trúc của repo
 - models: Thư mục chưa model nhận diện cảm xúc
